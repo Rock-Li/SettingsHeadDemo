@@ -15,6 +15,9 @@ import android.widget.ImageView;
 
 import java.io.File;
 
+/**
+ * @author Rock
+ */
 public class MainActivity extends AppCompatActivity {
     private static int RESULT_LOAD_IMAGE = 1;
     private ImageView iv_1;
